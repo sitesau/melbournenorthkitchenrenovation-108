@@ -1,0 +1,22 @@
+{
+  "wheel_id": 776,
+  "structure": "umbrella",
+  "slug": "melbournenorthkitchenrenovation-108",
+  "project": "kitchen-renovations-melbourne-north-diy-vs-professional-e0d033c",
+  "parent_t1_ref": "melbournenorthkitchenrenovation-153",
+  "node_role": "feeder",
+  "money_target": "melbournenorthkitchenrenovation.com.au",
+  "primary_kw": "kitchen renovations melbourne north diy vs professional",
+  "intended_url": "https://sitesau.github.io/melbournenorthkitchenrenovation-108/",
+  "tier": "T2",
+  "writeback_nonce": "cad4980095647589",
+  "links": [
+    {
+      "target_url": "https://aumedia.neocities.org/kitchen-renovations-melbourne-north-materials-compared-c9256834/",
+      "anchor": "this kitchen renovations melbourne north materials compared guide",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "partial"
+    }
+  ]
+}
